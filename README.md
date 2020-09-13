@@ -15,6 +15,9 @@ Este Projeto foi desenvolvido para fins acadêmicos através do curso [GraphQL -
 <div>
   <a href="https://cli.vuejs.org/"><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" height="50px" width="50px"></a>
 </div>
+<div>
+  <a href="https://graphql.org/"><img src="https://miro.medium.com/max/1000/1*RHQ7lpGDV_M3yWRa9DiR2g.png" height="50px" width="150px"></a>
+</div>
 
 ## Getting Started
 
